@@ -1,2 +1,3 @@
-# GameEngine_Portfolio
-Series-Course Project, using C++ to implement a wrapping framework around Opengl for more efficient and easy-to-use model-animation program.
+This is a course project framework provided by Edward Keenan and later filled-in/altered with my implementation of libraries and designs.
+
+The repository only serves as a portfolio of my c++ programming style, and not for any other use.
